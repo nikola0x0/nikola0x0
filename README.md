@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/2880px-Garfield_the_Cat.svg.png" alt="Banner" width="50%">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Charlie_Brown.png" alt="Banner" width="50%">
 </p>
 
 <h1 align="center">hi, i'm <a href="https://devniko.framer.website/">nikola0x0</a>!</h1>
